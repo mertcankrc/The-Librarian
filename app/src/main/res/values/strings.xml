@@ -8,8 +8,8 @@
     <string name="sign_in">Sign In</string>
     <string name="sign_up">Sign Up</string>
     <string name="google">Sign In With Google</string>
-    <!-- Register Activity -->
-    <string name="register">Register</string>
-    <string name="name">Name</string>
-    <string name="surname">Surname</string>
+    <string name="required_error">Required</string>
+    <string name="signin_fail">Sign In Failed</string>
+    <string name="signup_fail">Sign Up Failed</string>
+
 </resources>
