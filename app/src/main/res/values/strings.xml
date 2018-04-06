@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Librarian</string>
+    <!-- Login Activity -->
+    <string name="email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Password_again">Password Again</string>
+    <string name="the_librarian">The Librarian</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="google">Sign In With Google</string>
+    <!-- Register Activity -->
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+</resources>
